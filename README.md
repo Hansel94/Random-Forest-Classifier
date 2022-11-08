@@ -1,6 +1,6 @@
 # RandomForest
 
-ImplementaciÛn b·sica del mÈtodo de random forest. Para la compilaciÛn del programa se puede utilizar el archivo Makefile de la siguiente forma:
+Implementaci√≥n b√°sica del m√©todo de random forest. Para la compilaci√≥n del programa se puede utilizar el archivo Makefile de la siguiente forma:
  
 	make -f Makefile
 
